@@ -1,6 +1,6 @@
 # Bun v1.1.6 + Hono v4.2.9 + Vite v5.2.11 (Vue 3) Template
 
-Look at the [Bun V1.1.6]([https://bun.sh/](https://bun.sh/)), [Hono V4.2.9]([ttps://hono.dev/](https://hono.dev/)) or [Vite v5.2.11 (Vue 3)](https://vitejs.dev/) documentation to learn more.
+Look at the [Bun V1.1.6](https://bun.sh/), [Hono V4.2.9](https://hono.dev/) or [Vite v5.2.11 (Vue 3)](https://vitejs.dev/) documentation to learn more.
 
 ## Setup
 
