@@ -26,7 +26,7 @@ bun install
 
 ## Development
 
-###Server
+### Server
 ```bash
 cd server
 ```
@@ -35,7 +35,7 @@ cd server
 bun run dev
 ```
 
-###Front-end
+### Front-end
 ```bash
 cd frontend
 ```
@@ -46,7 +46,7 @@ bun run dev
 
 ## Production
 
-###Front-end
+### Front-end
 
 Make sure to build the front-end
 ```bash
@@ -58,7 +58,7 @@ bun run build
 ```
 When the build is done go into the server and just the following commands:
 
-###Server
+### Server
 ```bash
 cd server
 ```
