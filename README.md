@@ -2,6 +2,10 @@
 
 Look at the [Bun V1.1.6](https://bun.sh/), [Hono V4.2.9](https://hono.dev/) or [Vite v5.2.11 (Vue 3)](https://vitejs.dev/) documentation to learn more.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pallepadehat/bun-template&type=Date)](https://star-history.com/#Pallepadehat/bun-template&Date)
+
 ## Setup
 
 Make sure to install the dependencies - Server:
